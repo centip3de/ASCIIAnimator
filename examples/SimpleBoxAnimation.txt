@@ -1,0 +1,127 @@
+Begin: 1
+Time: 1
+Refresh: true 
+ _
+|_|
+
+End: 1
+
+Begin: 2
+Time: 1 
+Refresh: true 
+ _ _
+|   |
+|_ _|
+
+End: 2
+
+Begin: 3
+Time: 1
+Refresh: true 
+ _ _ _
+|     |
+|     |
+|_ _ _|
+
+End: 3
+
+Begin: 4
+Time: 1
+Refresh: true 
+ _ _ _ _
+|       |
+|       |
+|       |
+|_ _ _ _|
+
+End: 4
+
+Begin: 5
+Time: 1
+Refresh: true
+ _ _ _ _ _ 
+|         |
+|         |
+|         |
+|         |
+|_ _ _ _ _|
+
+End: 5
+
+Begin: 6
+Time: 1
+Refresh: true
+ _ _ _ _ _ _
+|           |
+|           |
+|           |
+|           |
+|           |
+|_ _ _ _ _ _|
+
+End: 6
+
+Begin: 7
+Time: 1
+Refresh: true
+
+ _ _ _ _ _ _ _
+|             |
+|             |
+|             |
+|             |
+|             |
+|             |
+|_ _ _ _ _ _ _|
+
+End: 7
+
+Begin: 8
+Time: 1
+Refresh: true
+
+ _ _ _ _ _ _ _ _ 
+|               |
+|               |
+|               |
+|               |
+|               |
+|               |
+|               |
+|_ _ _ _ _ _ _ _|
+
+End: 8
+
+Begin: 9
+Time: 1
+Refresh: true
+
+ _ _ _ _ _ _ _ _ _
+|                 |
+|                 |
+|                 |
+|                 |
+|                 |
+|                 |
+|                 |
+|                 |
+|_ _ _ _ _ _ _ _ _|
+
+End: 9
+
+Begin: 10
+Time: 1
+Refresh: true
+ _ _ _ _ _ _ _ _ _ _
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|_ _ _ _ _ _ _ _ _ _|
+
+End: 10
