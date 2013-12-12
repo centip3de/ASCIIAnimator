@@ -12,29 +12,6 @@
 
 * Goto: <FrameName> - Goto the specified frame after this frame has been shown.
 
+**Basic Animation Walkthrough**
 
-**Basic animation walkthrough:**
-
-Do note that this walkthrough uses comments, which ARE NOT supported in an actual animation file.
-
-BasicAnimation.txt
-
-Begin: 1 					#Begin a frame named 1		
-Time: 1						#Display this frame for 1 second
-Refresh: true 					#Refresh the screen after this frame is finished displaying
- _
-|_|						#The scene to be displayed
-
-End: 1						#End the frame named 1
-
-Begin: 2					#Begin a frame named 2
-Time: 1						#Display this frame for 1 second
-Refresh: true					#Refresh the screen after this frame is finished displaying 
-
- __
-|  |						#The scene to be displayed
-|__|
-
-End: 2						#End of the frame named 2
-
-This animation will display a growing square (although it's growth is short). 
+For a basic animation, look in the /examples folder and reference back to these commands. Feel free to experiment a bit with it. 
